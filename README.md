@@ -52,4 +52,4 @@ This project is fully ready to be deployed on Vercel as a static site.
    - **Output Directory:** `dist`
 4. Click **Deploy**.
 
-*Note: This project was built using Vite and React Router to ensure optimal compatibility with the AI Studio preview environment, while strictly adhering to the requested clean architecture, component structure, and static nature of the Next.js App Router pattern.*
+*Note: This project was built using Vite and React Router to ensure optimal compatibility while strictly adhering to the requested clean architecture, component structure, and static nature of the Next.js App Router pattern.*
